@@ -13,6 +13,9 @@ Requirements
 Python 3.x
 PyTorch
 NumPy
+
+
+
 2) Bigram.py:
 Bigram GPT Language Model
 This repository contains an implementation of a Bigram-based GPT language model using PyTorch. The model generates text by learning from an input corpus, leveraging transformer architecture components like multi-head attention and feed-forward networks.
