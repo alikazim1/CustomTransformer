@@ -40,4 +40,4 @@ Installation
 To install the required dependencies, use pip:
 
 
-![andrea-de-santis-zwd435-ewb4-unsplash](https://github.com/alikazim1/CustomTransformer/assets/115345833/f66aa8a2-d22f-470f-97ee-52feb5aec98a)
+
